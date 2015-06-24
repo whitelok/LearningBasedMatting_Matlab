@@ -23,7 +23,8 @@ This package contains the major source code of a demo for our learning based dig
 
 #Information
 ===========
-##算法源作者及其联系方式
+算法源作者及其联系方式
+
 *By Yuanjie Zheng @ PICSL lab @ UPenn on May 9th, 2011
 *email: zheng.vision@gmail.com
 *website: http://sites.google.com/site/zhengvision/
