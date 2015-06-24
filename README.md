@@ -4,7 +4,7 @@ Matlab版的Learning Based Digital Matting前景图像提取算法。此代码�
 
 This package contains the major source code of a demo for our learning based digital image matting technique (as detailed in the below paper).
 
-```cpp
+```latex
 @InProceedings{ZhengICCV09,
   author = {Yuanjie Zheng and Chandra Kambhamettu},
   title = {Learning Based Digital Matting},
