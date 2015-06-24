@@ -1,0 +1,1 @@
+These test images were downloaded from the online alpha matting evaluation website: http://www.alphamatting.com/datasets.php
