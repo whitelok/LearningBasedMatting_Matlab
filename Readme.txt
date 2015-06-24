@@ -1,4 +1,4 @@
-Description
+#Description
 ===========
 
 Matlab版的Learning Based Digital Matting前景图像提取算法，此代码为原版代码，未经任何并行优化，速度比较慢。
