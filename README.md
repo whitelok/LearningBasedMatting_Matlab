@@ -1,7 +1,6 @@
 #Description
 ===========
-
-Matlab版的Learning Based Digital Matting前景图像提取算法，此代码为原版代码，未经任何并行优化，速度比较慢。
+Matlab版的Learning Based Digital Matting前景图像提取算法。此代码为原版代码，未经任何并行优化，速度比较慢。
 
 This package contains the major source code of a demo for our learning based digital image matting technique (as detailed in the below paper).
 
@@ -14,7 +13,7 @@ This package contains the major source code of a demo for our learning based dig
 }
 
 
-Basic Usage
+#Basic Usage
 ===========
 
 1. Unpack the code.
